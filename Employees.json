@@ -1,0 +1,93 @@
+﻿[
+  {
+    "EmployeeID": "454",
+    "FirstName": "Jake",
+    "LastName": "Berg",
+    "Email": "jakeb21@gmail.com",
+    "Number": "2181388198"
+  },
+  {
+    "EmployeeID": "158",
+    "FirstName": "Marco",
+    "LastName": "Lorenzo",
+    "Email": "ma2131enzo@gmail.com",
+    "Number": "2034653275"
+  },
+  {
+    "EmployeeID": "284",
+    "FirstName": "Alex",
+    "LastName": "Shmo",
+    "Email": "alexshmo@gmail.com",
+    "Number": "2268499590"
+  },
+  {
+    "EmployeeID": "956",
+    "FirstName": "Arron",
+    "LastName": "Rodgers",
+    "Email": "aRdoe@gmail.com",
+    "Number": "1069842204"
+  },
+  {
+    "EmployeeID": "152",
+    "FirstName": "Juan",
+    "LastName": "Carlos",
+    "Email": "castlebo@gmail.com",
+    "Number": "2651577290"
+  },
+  {
+    "EmployeeID": "326",
+    "FirstName": "Ryan",
+    "LastName": "Sharok",
+    "Email": "rysha@gmail.com",
+    "Number": "1137300451"
+  },
+  {
+    "EmployeeID": "648",
+    "FirstName": "Nickolas",
+    "LastName": "Ride",
+    "Email": "spam@gmail.com",
+    "Number": "2985721650"
+  },
+  {
+    "EmployeeID": "023",
+    "FirstName": "Cooper",
+    "LastName": "Lee",
+    "Email": "coop1234@gmail.com",
+    "Number": "1135532653"
+  },
+  {
+    "EmployeeID": "136",
+    "FirstName": "Ethan",
+    "LastName": "Ho",
+    "Email": "e_ho@gmail.com",
+    "Number": "2316034341"
+  },
+  {
+    "EmployeeID": "276",
+    "FirstName": "Micheal",
+    "LastName": "Lu",
+    "Email": "mili@gmail.com",
+    "Number": "2316034341"
+  },
+  {
+    "EmployeeID": "343",
+    "FirstName": "Andy",
+    "LastName": "Li",
+    "Email": "nijasn@gmail.com",
+    "Number": "2217147755"
+  },
+  {
+    "EmployeeID": "233",
+    "FirstName": "Joesph",
+    "LastName": "Sylvester",
+    "Email": "sylvest1286@gmail.com",
+    "Number": "3794582880"
+  },
+  {
+    "EmployeeID": "123",
+    "FirstName": "Kobe",
+    "LastName": "Washington",
+    "Email": "kobewashington@gmail.com",
+    "Number": "2748272192"
+  }
+]
